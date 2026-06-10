@@ -39,10 +39,8 @@ Retail organizations report ESG scores as single headline numbers but those numb
 | ESG_Governance_Corporate_Metrics.csv | Governance and compliance dataset |
 | ESG_Environmental_Waste_Metrics.csv | Environmental and waste metrics dataset |
 | ESG_Social_Workforce_Metrics.csv | Social and workforce metrics dataset |
-| overview.png | Overview dashboard screenshot |
-| environmental.png | Environmental dashboard screenshot |
-| social.png | Social dashboard screenshot |
-| governance.png | Governance dashboard screenshot |
+| ESG Project | Power BI project file containing all 4 dashboard pages, data model, DAX measures, and cross-filter configurations across the 3 datasets |
+
 
 ---
 *Designed by Jacqline | Power BI | Data Analytics*
